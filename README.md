@@ -1,1 +1,2 @@
-# branching exercise 
+ learning git branches 
+ alut les amis 
