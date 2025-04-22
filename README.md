@@ -1,2 +1,2 @@
  learning git branches 
- alut les amis 
+ this repo demonstrates git branching 
